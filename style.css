@@ -1,0 +1,195 @@
+body{
+
+	margin:0px;
+	padding:0px;
+	}
+.fullpage
+{   
+		margin:auto;
+		width:1024px;
+		height:auto;
+		color: yellow;
+			background-color:#010A59;
+		
+
+}
+.header
+{
+	margin:auto;
+	width:1020px;
+	height:125px;
+	background-image:url('Online-casino.jpg');
+	
+}
+.menubar
+{
+	margin:auto;
+	width:1020px;
+	height:25px;
+	background-image:url('topbar.gif');
+	background-repeat:repeat-x;
+}
+.main
+{
+	margin:auto;
+	width:1020px;
+	height:867px;
+}
+.left
+{
+	float:left;
+	width:149px;
+	height:867px;
+}
+.sec_left1
+{
+	margin:5px;
+	background-image:url('menubg2.jpg');
+	color:white;
+	text-align:center;
+	    height: 165px;
+}
+.sec_left2
+{
+	background-image:url('menubg2.jpg');
+	margin:5px;
+	color:white;
+	text-align:center;
+	    height: 165px;
+}
+.sec_left1 ul
+{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.sec_left2 ul
+{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.sec_left1 li
+{
+	 color: white;
+    background-image: url(menu2button.jpg);
+    font-size: 16px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 1px solid blue;
+
+}
+.sec_left2 li{
+	color: white;
+    background-image: url(menu2button.jpg);
+    font-size: 16px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 1px solid blue;
+}
+.sec_left1 h3{
+	margin:0px;
+	padding:0px;
+	background-image: url(menubutton1.jpg);
+		text-transform: uppercase;
+	}
+.sec_left2 h3{margin:0px;
+	padding:0px;
+	background-image: url(menubutton1.jpg);
+		text-transform: uppercase;
+	}
+
+
+.middle
+{
+	float:left;
+	width:696px;
+	height:867px;
+}
+.section_mid
+{
+	    background-color: red;
+    width: 699px;
+    height: 150px;
+    margin: 5px 0px 27px 0px;
+}
+.middle_sec1
+{
+	float:left;
+	width:130px;
+	height:125px;
+        margin: 6px 20px;
+    background-image: url(genericaddr.jpg);
+    background-repeat: no-repeat;
+	
+}
+.middle_sec1 .btn
+{
+    position: relative;
+    padding: 10px 43px;
+    background-image: url(playnow.jpg);
+    top: 102px;
+    left: 15px;
+	border: none;
+	background-repeat: no-repeat;
+		
+
+}
+
+.middle_sec2
+{
+	float:left;
+	margin:auto;
+	    width: 528px;
+	height:160px;
+}
+.right
+{
+	float:left;
+	width:170px;
+	height:867px;
+	
+}
+.right_sec1
+{
+	    background-color: #EC30FF;
+    height: 320px;
+    margin: 5px 0px 0px 18px;
+}
+.right_sec1 h3
+{
+	padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: blueviolet;
+    margin-top: 1px;
+	}
+.footer
+{
+	margin:auto;
+	float:none;
+    width:1020px;
+	height:100px;
+}
+.footer p{text-align:center;}
+.footer h5{
+	text-align: center;
+        color: #10e465;
+    text-transform: uppercase;
+    margin: auto;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: 600;
+}
+div h4{  
+  text-align: center;
+    color: yellow;
+    text-transform: uppercase;
+    margin: auto;
+    padding: 5px;
+	}
+div p{
+margin:auto 8px;
+font-size:14px;
+color:white;
+}
